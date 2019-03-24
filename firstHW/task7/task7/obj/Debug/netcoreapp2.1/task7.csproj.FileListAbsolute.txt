@@ -1,0 +1,11 @@
+C:\Users\Maxim\Desktop\ннн\task7\task7\bin\Debug\netcoreapp2.1\task7.deps.json
+C:\Users\Maxim\Desktop\ннн\task7\task7\bin\Debug\netcoreapp2.1\task7.runtimeconfig.json
+C:\Users\Maxim\Desktop\ннн\task7\task7\bin\Debug\netcoreapp2.1\task7.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\ннн\task7\task7\bin\Debug\netcoreapp2.1\task7.dll
+C:\Users\Maxim\Desktop\ннн\task7\task7\bin\Debug\netcoreapp2.1\task7.pdb
+C:\Users\Maxim\Desktop\ннн\task7\task7\obj\Debug\netcoreapp2.1\task7.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\ннн\task7\task7\obj\Debug\netcoreapp2.1\task7.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\ннн\task7\task7\obj\Debug\netcoreapp2.1\task7.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\ннн\task7\task7\obj\Debug\netcoreapp2.1\task7.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\ннн\task7\task7\obj\Debug\netcoreapp2.1\task7.dll
+C:\Users\Maxim\Desktop\ннн\task7\task7\obj\Debug\netcoreapp2.1\task7.pdb

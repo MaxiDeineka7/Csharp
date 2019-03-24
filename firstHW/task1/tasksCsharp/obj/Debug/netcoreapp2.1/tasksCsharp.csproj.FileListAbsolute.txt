@@ -1,0 +1,4 @@
+C:\Users\Maxim\Desktop\ннн\tasksCsharp\tasksCsharp\obj\Debug\netcoreapp2.1\tasksCsharp.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\ннн\tasksCsharp\tasksCsharp\obj\Debug\netcoreapp2.1\tasksCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\ннн\tasksCsharp\tasksCsharp\obj\Debug\netcoreapp2.1\tasksCsharp.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\ннн\tasksCsharp\tasksCsharp\obj\Debug\netcoreapp2.1\tasksCsharp.AssemblyInfo.cs
