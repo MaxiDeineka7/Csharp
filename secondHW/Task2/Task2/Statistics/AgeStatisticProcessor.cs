@@ -18,12 +18,12 @@ namespace Task2
             while (personEnum.MoveNext())
             {
                 sumAge += personEnum.Current.Age();
-                if (oldestPerson.BirthDate < personEnum.Current.BirthDate)
+                if (oldestPerson.BirthDate > personEnum.Current.BirthDate)
                 {
                     oldestPerson = personEnum.Current;
                 }
 
-                if (youngestPerson.BirthDate > personEnum.Current.BirthDate)
+                if (youngestPerson.BirthDate < personEnum.Current.BirthDate)
                 {
                     youngestPerson = personEnum.Current;
                 }
